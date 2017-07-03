@@ -1,0 +1,28 @@
+{
+  "name": "webapp",
+  "authors": [
+    "lianzhiyu <xulong3370@qq.com>"
+  ],
+  "description": "angularjs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "ui-router#0.3.2",
+    "angular-cookies": "^1.6.4",
+    "angular-validation": "D:/angular-validation-master.zip",
+    "angular-animate": "^1.6.4"
+  }
+}
